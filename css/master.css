@@ -1,0 +1,70 @@
+body {
+    background-color: #FBF8F1;
+}
+
+h1 {
+    margin-left: 20px;
+    color: #42C2FF;
+}
+
+h1:hover {
+    color: gold;
+}
+
+p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    margin: 2% auto;
+    text-decoration: none;
+}
+.contactMe{
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+   
+}
+
+img {
+    height: 200px;
+   
+}
+.image{
+    text-align: center;
+}
+
+hr {
+    border-top: 5px dotted black;
+    width: 5%;
+    background-color: #EFFFFD;
+    margin:2% auto;
+   
+}
+
+h3:hover {
+    color: gold;
+}
+
+a:hover {
+    color: gold;
+}
+
+.bar {
+    background-color: #EFFFFD;
+   
+}
+
+.Name{
+    text-align: center;
+    font-size: 5rem;
+    font-style: bold;
+    color: black;
+    font-family: 'Inspiration', cursive;
+}
+.nameBox{
+    text-align: center;
+}
+
+.all{
+    font-size: 1.3rem;
+}
